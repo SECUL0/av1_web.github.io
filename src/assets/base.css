@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Libre Baskerville', serif;
+}
+
+:root {
+    --cinzaFundo: #0A0A0A;
+    --cinzaEscuro: #0D0D0D;
+    --cinza: #2B2B2B;
+    --sombra: #1B1B1B;
+    --cinzaClaro: #414342;
+    --ouro: #CAB480;
+    --texto: #ADACA3;
+    --ouroClaro: #b8903a;
+    --ouroEscuro: #bda161ff;
+}
