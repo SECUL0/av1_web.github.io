@@ -104,7 +104,7 @@ window.onload=function(){
                     <input type="text" id="estado">
                 </div>
 
-                <button class="inputs__botao inputs__full" type="submit" form="cadastro"><RouterLink to="/personagem">Começar</RouterLink></button>
+                <RouterLink class="inputs__full" to="/personagem"><button class="inputs__botao" type="submit" form="cadastro">Começar</button></RouterLink>
             </div>
         </form>
 </template>

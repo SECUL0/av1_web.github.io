@@ -211,6 +211,7 @@ select {
   border: none;
   background-color: var(--ouro);
   font-size: 16px;
+  cursor: pointer;
 }
 
 .inputs__botao a {
