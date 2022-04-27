@@ -11,6 +11,10 @@ import { RouterView } from 'vue-router'
 <style>
 @import '@/assets/base.css';
 
+body{
+  background-color: var(--cinzaFundo);
+}
+
 section {
   background-color: var(--cinzaFundo);
   width: 100vw;
